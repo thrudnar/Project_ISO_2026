@@ -1,0 +1,8 @@
+let's iterate a bit at this level to fine tune.
+
+each "game" should last 20 questions.
+at the end of a game, calculate the player's score as a percentage and display it on the screen.
+the end screen should have buttons to quit or replay.
+the end screen should also show the top 5 highest scores ever played - we will work out some sort of reset of the score later.
+
+let's build these changes for now

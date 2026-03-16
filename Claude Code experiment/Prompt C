@@ -1,0 +1,1 @@
+i want to simplify the dependencies and make each of the icon folders self sufficient by copying the icon_image_key.csv into both icon directories.  then change the code to use the csv file in the 200px directory.  we may have use for the 50px icons later.

@@ -10,3 +10,4 @@ wheels/
 .venv
 .DS_Store
 ISO_Image_Library/
+icon_image_key.csv

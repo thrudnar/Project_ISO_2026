@@ -8,6 +8,29 @@ wheels/
 
 # Virtual environments
 .venv
+
+# OS metadata
 .DS_Store
+
+# Claude Code local config
+.claude/
+
+# Secrets and keys
+*.env
+.env*
+*.pem
+*.key
+*.p12
+*.pfx
+
+# Databases
+*.sqlite
+*.sqlite3
+*.db
+
+# Logs
+*.log
+
+# Project data
 ISO_Image_Library/
 icon_image_key.csv

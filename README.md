@@ -49,5 +49,5 @@ Three prompts to a working desktop app. Scoped, complete, playable. The mobile p
 
 | Project | What it is |
 |---|---|
-| [`mobile_icon_id`](#) | I ported this to React Native/Expo using Cursor. It's on my phone. The architecture is more interesting: 500-image packs, config-driven switching, a planned server component for the full library. |
+| [Mobile Icon ID](https://github.com/thrudnar/mobile_icon_id) | I ported this to React Native/Expo using Cursor. It's on my phone. The architecture is more interesting: 500-image packs, config-driven switching, a planned server component for the full library. |
 | [`terrain`](#) | A production job hunting pipeline I designed and built with Claude Code. Five pipeline stages, three provider adapters, 152 tests, published at v0.8. |
